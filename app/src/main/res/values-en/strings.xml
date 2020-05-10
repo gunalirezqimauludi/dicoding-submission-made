@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <!-- ActionBar Titles -->
+    <string name="actionbar_title">Dicoding</string>
+    <string name="actionbar_subtitle">Movies</string>
+
+    <!-- Tab Titles -->
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tv_shows">TV Shows</string>
+    <string name="tab_favorites">Favorites</string>
+
+    <!-- Placeholder Detail Activity -->
+    <string name="label_featured_crew">Featured Crew</string>
+    <string name="label_overview">Overview</string>
+    <string name="detail_separator">•</string>
+    <string name="detail_user_score">0</string>
+    <string name="detail_image">Image</string>
+    <string name="detail_release_date">Release Date</string>
+    <string name="detail_title">Title</string>
+    <string name="detail_overview">Overview</string>
+    <string name="detail_genre">Genre</string>
+    <string name="detail_crew_name">Crew Name</string>
+    <string name="detail_crew_job">Crew Job</string>
+
+    <!-- State -->
+    <string name="language">en-US</string>
+
+    <!-- Empty State -->
+    <string name="empty_movies">Movies Not Found</string>
+    <string name="empty_tv_shows">TV Shows Not Found</string>
+    <string name="empty_favorites_movies">No Favorite Movies</string>
+    <string name="empty_favorites_tv_shows">No Favorite TV Shows</string>
+    <string name="empty_overview">We don\'t have an overview translated in English. Help us expand our database by adding one.</string>
+    <string name="empty_release_date">COMING SOON</string>
+
+    <!-- Label Favorite Action -->
+    <string name="favorite_add">Added to favorite</string>
+    <string name="favorite_remove">Removed to favorite</string>
+
+    <!-- Preference Titles -->
+    <string name="search_header">Search</string>
+    <string name="settings_header">Settings</string>
+    <string name="notification_header">NOTIFICATION</string>
+
+    <!-- Langugage Preferences -->
+    <string name="change_language_title">Change Language</string>
+    <string name="change_language_summary">English (United States)</string>
+
+    <!-- Release Today Preferences -->
+    <string name="release_reminder_title">Release Today Reminder</string>
+    <string name="release_reminder_summary">Reminder showing the movie that released today</string>
+    <string name="release_reminder_on">Release reminder turned on</string>
+    <string name="release_reminder_off">Release reminder turned off</string>
+    <string name="release_reminder_message">has been release today!</string>
+
+    <!-- Daily Reminder Preferences -->
+    <string name="daily_reminder_title">Daily Reminder</string>
+    <string name="daily_reminder_summary">Reminder for return to app</string>
+    <string name="daily_reminder_on">Daily reminder turned on</string>
+    <string name="daily_reminder_off">Daily reminder turned off</string>
+    <string name="daily_reminder_message">missing you!</string>
+</resources>

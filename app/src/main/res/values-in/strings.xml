@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <!-- ActionBar Titles -->
+    <string name="actionbar_title">Dicoding</string>
+    <string name="actionbar_subtitle">Movies</string>
+
+    <!-- Tab Titles -->
+    <string name="tab_movies">Film</string>
+    <string name="tab_tv_shows">Serial TV</string>
+    <string name="tab_favorites">Favorit</string>
+
+    <!-- Placeholder Detail Activity -->
+    <string name="label_featured_crew">Kru</string>
+    <string name="label_overview">Kilasan Singkat</string>
+    <string name="detail_separator">•</string>
+    <string name="detail_user_score">0</string>
+    <string name="detail_image">Gambar</string>
+    <string name="detail_release_date">Tangal Rilis</string>
+    <string name="detail_title">Judul</string>
+    <string name="detail_overview">Kilasan Singkat</string>
+    <string name="detail_genre">Genre</string>
+    <string name="detail_crew_name">Nama Kru</string>
+    <string name="detail_crew_job">Pekerjaan Kru</string>
+
+    <!-- State -->
+    <string name="language">id-ID</string>
+
+    <!-- Empty State -->
+    <string name="empty_movies">Film tidak ditemukan</string>
+    <string name="empty_tv_shows">Serial TV tidak ditemukan</string>
+    <string name="empty_favorites_movies">Tidak Ada Film Favorit</string>
+    <string name="empty_favorites_tv_shows">Tidak Ada Serial TV Favorit</string>
+    <string name="empty_overview">Kami belum memiliki kilasan singkat dalam bahasa Indonesia. Bantu kami menambahkannya.</string>
+    <string name="empty_release_date">SEGERA AKAN DATANG</string>
+
+    <!-- Label Favorite Action -->
+    <string name="favorite_add">Ditambahkan ke favorit</string>
+    <string name="favorite_remove">Dihapus ke favorit</string>
+
+    <!-- Preference Titles -->
+    <string name="search_header">Pencarian</string>
+    <string name="settings_header">Pengaturan</string>
+    <string name="notification_header">PEMBERITAHUAN</string>
+
+    <!-- Langugage Preferences -->
+    <string name="change_language_title">Ganti Bahasa</string>
+    <string name="change_language_summary">Indonesian (Indonesia)</string>
+
+    <!-- Release Today Preferences -->
+    <string name="release_reminder_title">Rilis Pengingat Hari Ini</string>
+    <string name="release_reminder_summary">Pengingat menunjukkan film yang dirilis hari ini</string>
+    <string name="release_reminder_on">Pengingat rilis dihidupkan</string>
+    <string name="release_reminder_off">Pengingat rilis dimatikan</string>
+    <string name="release_reminder_message">telah dirilis hari ini!</string>
+
+    <!-- Daily Reminder Preferences -->
+    <string name="daily_reminder_title">Pengingat Harian</string>
+    <string name="daily_reminder_summary">Pengingat untuk kembali ke aplikasi</string>
+    <string name="daily_reminder_on">Pengingat harian dihidupkan</string>
+    <string name="daily_reminder_off">Pengingat harian dimatikan</string>
+    <string name="daily_reminder_message">merindukanmu!</string>
+</resources>

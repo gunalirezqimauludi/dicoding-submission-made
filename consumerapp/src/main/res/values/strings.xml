@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+
+    <string name="empty_movies">Movies Not Found</string>
+    <string name="empty_release_date">COMING SOON</string>
+
+    <string name="movie_title">movie title</string>
+    <string name="movie_overview">overview</string>
+    <string name="movie_vote_average">movie vote average</string>
+    <string name="movie_release_date">movie release date</string>
+</resources>
